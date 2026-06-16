@@ -1,0 +1,6 @@
+numpy==2.0.2
+tensorflow==2.20.0
+keras==3.13.2
+flask
+werkzeug
+gunicorn
